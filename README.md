@@ -1,1 +1,1 @@
-# softskill enhancement application for hexaware
+# softskill enhancement application (eliquence.AI) for skill development 
